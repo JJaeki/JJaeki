@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 ### Skills 
 --------------
+#### Platforms & Languages
 <div align="center">
-  Platforms & Languages
+
 </div>
 <div align="center">
   <a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white"/></a>
