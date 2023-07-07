@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 💪 Skills 
--
+---
 #### Platforms & Languages
 
 <div>
@@ -30,13 +30,14 @@ Here are some ideas to get you started:
   <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>  
 </div>
 
+
 <div>
   <a><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wodud9515"></a>
   <a><img src="http://mazandi.herokuapp.com/api?handle=wodud9515&theme=warm"/></a>
 </div>
 
 ### Github Stats
----------
+---
 <div>
   <a href="https://github.com/JJaeki/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JJaeki" />
