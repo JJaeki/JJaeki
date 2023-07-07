@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 </div>
 
 --------------
-<div>
-  <a><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wodud9515"></a>
-  <a><img align="center" src="http://mazandi.herokuapp.com/api?handle=wodud9515&theme=warm"/></a>
+<div align="center">
+  <a><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wodud9515"></a>
+  <a><img src="http://mazandi.herokuapp.com/api?handle=wodud9515&theme=warm"/></a>
 </div>
 
 ### Github Stats
