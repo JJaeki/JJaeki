@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 ### 💪 Skills 
 #### Platforms & Languages
----
 <div>
   <a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
@@ -37,8 +36,8 @@ Here are some ideas to get you started:
   <a><img src="http://mazandi.herokuapp.com/api?handle=wodud9515&theme=warm"/></a>
 </div>
 
+
 ### Github Stats
----
 <div>
   <a href="https://github.com/JJaeki/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JJaeki" />
