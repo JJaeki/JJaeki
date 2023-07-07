@@ -1,4 +1,4 @@
-🤞 Hi! I'm JaeYoung 🤞
+### 🤞 Hi! I'm JaeYoung 🤞
 
 
 <!--
@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 -->
 
 
-💪 Skills 
----
+### 💪 Skills 
 #### Platforms & Languages
-
+---
 <div>
   <a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
@@ -29,7 +28,9 @@ Here are some ideas to get you started:
   <a><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>  
 </div>
-
+<p>
+  
+</p>
 
 <div>
   <a><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wodud9515"></a>
