@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={wodud9515})](https://solved.ac/{wodud9515})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodud9515)](https://solved.ac/wodud9515)
