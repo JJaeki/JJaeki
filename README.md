@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ### Github Stats
--------------------------------------------
+--------
 <div>
   <a href="https://github.com/JJaeki/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JJaeki" />
@@ -27,9 +27,9 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+--------
 <div>
   <a><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wodud9515"></a>
   <a><img src="http://mazandi.herokuapp.com/api?handle=wodud9515&theme=warm"/></a>
 </div>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodud9515)](https://solved.ac/wodud9515)
+
