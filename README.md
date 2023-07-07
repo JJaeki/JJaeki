@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+
+### Github Stats
+-------------------------------------------
 ![JJaeki's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJaeki&show_icons=true&theme=transparent)
 
 [![Solved.ac
