@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-![JJaeki's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJaeki&show_icons=true&theme=radical)
+![JJaeki's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJaeki&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJaeki&layout=compact)](https://github.com/JJaeki/github-readme-stats)
