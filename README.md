@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Github Stats
 -------------------------------------------
 ![JJaeki's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJaeki&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?JJaeki=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJaeki&layout=compact)
 
 
 [![Solved.ac
