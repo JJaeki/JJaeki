@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ### Github Stats
 -------------------------------------------
 ![JJaeki's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJaeki&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/delay-100/github-readme-stats)
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={wodud9515})](https://solved.ac/{wodud9515})
