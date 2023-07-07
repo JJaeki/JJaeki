@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 ### My Skill 
 --
 <div>
-  <a><img src="https://img.shields.io/badge/Java-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/></a>
-  <a><img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/></a>
-  <a><img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/></a>
-  <a><img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/></a>  
+  <a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forage&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+  
+  <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>  
 </div>
 --------
 <div>
