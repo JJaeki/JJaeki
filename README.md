@@ -17,7 +17,13 @@ Here are some ideas to get you started:
 -->
 
 ### My Skill 
-___________
+--
+<div>
+  <a><img src="https://img.shields.io/badge/Java-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/></a>
+  <a><img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/></a>
+  <a><img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/></a>
+  <a><img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/></a>  
+</div>
 --------
 <div>
   <a><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wodud9515"></a>
